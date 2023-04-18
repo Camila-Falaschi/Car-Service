@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Jayden Gordon",
+    "email": "mechanic@email.com",
+    "services": [
+      {
+        "client": {
+          "name": "Kay Holland",
+          "email": "example@email.com",
+          "car": {
+            "name": "Mobi",
+            "plate": "BRA1234"
+          }
+        },
+        "peças": {
+          "id": 1,
+          "name": "Pneu",
+          "price": "143,00"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nevaeh Richardson",
+    "email": "mechanic2@email.com",
+    "services": [
+      {
+        "client": {
+          "name": "Kay Holland",
+          "email": "example@email.com",
+          "car": {
+            "name": "Mobi",
+            "plate": "BRA1234"
+          }
+        },
+        "peças": {
+          "id": 1,
+          "name": "Pneu",
+          "price": "143,00"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Denise Mendoza",
+    "email": "mechanic3@email.com",
+    "services": [
+      {
+        "client": {
+          "name": "Kay Holland",
+          "email": "example@email.com",
+          "car": {
+            "name": "Mobi",
+            "plate": "BRA1234"
+          }
+        },
+        "peças": {
+          "id": 1,
+          "name": "Pneu",
+          "price": "143,00"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mike Fuller",
+    "email": "mechanic4@email.com",
+    "services": [
+      {
+        "client": {
+          "name": "Kay Holland",
+          "email": "example@email.com",
+          "car": {
+            "name": "Mobi",
+            "plate": "BRA1234"
+          }
+        },
+        "peças": {
+          "id": 1,
+          "name": "Pneu",
+          "price": "143,00"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Danny Harris",
+    "email": "mechanic5@email.com",
+    "services": [
+      {
+        "client": {
+          "name": "Kay Holland",
+          "email": "example@email.com",
+          "car": {
+            "name": "Mobi",
+            "plate": "BRA1234"
+          }
+        },
+        "peças": {
+          "id": 1,
+          "name": "Pneu",
+          "price": "143,00"
+        }
+      }
+    ]
+  }
+]

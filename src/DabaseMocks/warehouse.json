@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pneu",
+    "price": "143,00"
+  },
+  {
+    "id": 2,
+    "name": "Cilindro mestre freio",
+    "price": "460,00"
+  },
+  {
+    "id": 3,
+    "name": "Lanterna traseira",
+    "price": "221,00"
+  },
+  {
+    "id": 4,
+    "name": "Vela de ignição",
+    "price": "24,00"
+  },
+  {
+    "id": 5,
+    "name": "Retrovisor Interno",
+    "price": "60,00"
+  },
+  {
+    "id": 6,
+    "name": "Filtro de óleo",
+    "price": "85,00"
+  }
+]

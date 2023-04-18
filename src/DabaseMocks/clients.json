@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Kay Holland",
+    "email": "example@email.com",
+    "car": {
+      "name": "Mobi",
+      "plate": "BRA1234"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Brad Tucker",
+    "email": "person2@email.com",
+    "car": {
+      "name": "Mobi",
+      "plate": "BRA1234"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Peggy Oliver",
+    "email": "person3@email.com",
+    "car": {
+      "name": "Mobi",
+      "plate": "BRA1234"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Craig Cook",
+    "email": "person4@email.com",
+    "car": {
+      "name": "Mobi",
+      "plate": "BRA1234"
+    }
+  }
+]

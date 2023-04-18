@@ -1,0 +1,22 @@
+.qr-login-container {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  gap: 30px;
+}
+
+.qr-icon {
+  width: 320px;
+}
+
+.qr-login-container h2 {
+  font-size: 1.8em;
+}
+
+.unavailable  {
+  background-color: #e3e3e3 !important;
+}
+
+.qr-login-container button {
+  width: 600px;
+}

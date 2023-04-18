@@ -1,0 +1,23 @@
+.header {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  gap: 40px;
+  font-size: 1.2em;
+}
+
+.logo {
+  width: 300px;
+}
+
+.navigation {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.navigation button {
+  width: 60%;
+}
