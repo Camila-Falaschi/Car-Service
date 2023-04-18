@@ -45,3 +45,12 @@ data/inicio do termino da execução do serviço.
 <br/>
 
 
+## Planejamento
+### Fluxograma
+![Flowchart Ultracar](https://user-images.githubusercontent.com/102390423/232785297-74effd55-6392-46e5-b0ed-142a9274290f.png)
+
+
+
+<br/>
+
+
