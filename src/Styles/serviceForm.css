@@ -1,0 +1,57 @@
+.main-form {
+  flex-flow: column;
+  gap: 40px;
+  padding: 20px;
+}
+
+.find-client-section {
+  display: flex;
+  flex-flow: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.find-client-section label {
+  display: flex;
+  flex-flow: column;
+  font-size: 1.5em;
+  gap: 10px;
+}
+
+.find-client-section input {
+  border: solid 4px #1cade4;
+  border-radius: 20px;
+  padding: 5px 10px;
+  height: 30px;
+  width: 200px;
+}
+
+.find-client-section button {
+  align-self: end;
+  height: 50px;
+  width: 150px;
+}
+
+.find-client-section p {
+  color: red;
+  font-size: 1.2em;
+}
+
+.form-section {
+  display: flex;
+  flex-flow: column;
+  gap: 20px;
+}
+
+.form-section select {
+  background-color: white;
+  border: solid 4px #1cade4;
+  border-radius: 20px;
+  padding: 5px 10px;
+  height: 60px;
+  width: 100%;
+}
+
+.form-button:disabled {
+  background-color: #e3e3e3 !important;
+}
