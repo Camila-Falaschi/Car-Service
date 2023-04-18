@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Person Name",
+    "email": "example@email.com",
+    "car": {
+      "name": "Mobi",
+      "plate": "BRA1234"
+    }
+  },
+  {
+    "name": "Example Name 2",
+    "email": "person2@email.com",
+    "car": {
+      "name": "Mobi",
+      "plate": "BRA1234"
+    }
+  },
+  {
+    "name": "Example Name 3",
+    "email": "person3@email.com",
+    "car": {
+      "name": "Mobi",
+      "plate": "BRA1234"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Example Name",
+    "email": "mechanic@email.com",
+    "services": [
+      {
+        "client": {
+          "name": "Person Name",
+          "email": "example@email.com"
+        },
+        "name": "Mobi",
+        "plate": "BRA1234",
+        "peças": ["pneu"]
+      }
+    ]
+  }
+]

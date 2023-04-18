@@ -1,9 +1,3 @@
-.main-section {
-  display: flex;
-  justify-content: center;
-  padding: 100px;
-}
-
 .header {
   align-items: center;
   display: flex;
@@ -25,12 +19,5 @@
 }
 
 .navigation button {
-  background-color: #1cade4;
-  border: none;
-  border-radius: 50px;
-  color: white;
-  height: 70px;
-  font-size: 1.4em;
-  font-weight: 600;
   width: 60%;
 }

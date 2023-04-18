@@ -1,6 +1,6 @@
 import React from "react";
 import UCLogo from "../Images/logoNova.png";
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from "react-router-dom";
 import "../Styles/main.css";
 
 function Main() {
@@ -14,8 +14,20 @@ function Main() {
           <h1>Seja Bem-Vindo(a)!</h1>
         </div>
         <div className="navigation">
-          <button type="button" onClick={() => navigate('/register-service')}>Criar novo serviço</button>
-          <button type="button" onClick={() => navigate('/login')}>Fazer login</button>
+          <button
+            type="button"
+            className="button-style"
+            onClick={() => navigate("/service")}
+          >
+            Criar novo serviço
+          </button>
+          <button
+            type="button"
+            className="button-style"
+            onClick={() => navigate("/login")}
+          >
+            Fazer login
+          </button>
         </div>
       </section>
     </main>

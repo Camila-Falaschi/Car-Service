@@ -3,17 +3,17 @@ import { useMemo, useState } from "react";
 import AppContext from "./AppContext";
 
 function Provider({ children }) {
-  const [products, setProducts] = useState([]);
-  const [loading, setLoading] = useState(false);
+  const [client, setClient] = useState("");
+  const [pageType, setPageType] = useState("");
 
   const providerValue = useMemo(
     () => ({
-      products,
-      setProducts,
-      loading,
-      setLoading,
+      client,
+      setClient,
+      pageType,
+      setPageType,
     }),
-    [products, loading]
+    [client, pageType]
   );
 
   return (
